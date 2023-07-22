@@ -1,16 +1,22 @@
-# flashchat
+# Flash Chat ⚡️
 
-A new Flutter project.
+Introducing 'Flash Chat' - Your Gateway to Instant Connections!
 
-## Getting Started
+Welcome to 'Flash Chat,' an Android app that allows you to forge meaningful connections effortlessly. With a seamless registration and login process, you'll enter a vibrant community where conversations come alive, bringing together like-minded individuals from all parts of life.
 
-This project is a starting point for a Flutter application.
+## What all did I learn through this project?
 
-A few resources to get you started if this is your first Flutter project:
+- How to incorporate Firebase into your Flutter projects.
+- How to use Firebase authentication to register and sign in users.
+- How to create beautiful animations using the Flutter Hero widget.
+- How to create custom aniamtions using Flutter's animation controller.
+- Learn all about mixins and how they differ from superclasses.
+- Learn about Streams and how they work.
+- Learn to use ListViews to build scrolling views.
+- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://github.com/kichuman28/Flash-Chat/assets/97717315/6464353d-73cd-454e-bd56-ad34c69d2825
+
