@@ -13,7 +13,7 @@ Welcome to 'Flash Chat,' an Android app that allows you to forge meaningful conn
 - Learn all about mixins and how they differ from superclasses.
 - Learn about Streams and how they work.
 - Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+- How to use Firebase Cloud Firestore, to store and retrieve data on the fly.
 
 
 
